@@ -1,0 +1,6 @@
+Filmkereso: 
+egy olyan filmkereso ami hasonlit a netflixre, Kategoriakba szedett filmekkel.
+A felhasznalo adatai is szuksegesek + az erdeklodesi kore az ajanlasokhoz.
+
+
+felhasznalo adatai: kor,erdeklodesi kore, v/k nev, orszag, fizetesi eszkoz (amivel elofizet).
